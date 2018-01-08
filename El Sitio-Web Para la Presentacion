@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> La Pagina Principal </title>
+<style>
+body {
+	background-image: url(img/hummingbird.jpg);
+	margin:0;
+	font-family: "Arial", Arial, san-serif;
+}
+
+pre {
+	margin:0;
+	font-family: "Arial", Arial, san-serif;
+	font-size: 36px;
+	}
+
+header{
+    background: linear-gradient(to right, black, white);
+    color: #fff;
+    padding: 50px;
+}
+footer{
+	background: linear-gradient(to right, grey, darkgrey, silver, lightgrey, silver, darkgrey, grey);
+    color: #fff;
+    padding: 50px;
+}
+</style>
+</head>
+<body>
+	<header>
+	Actividades hechas en la clase de ciber seguridad
+	</header>
+<pre>
+Hice este sitio-web para que demonstrarle la majoria de las actividades que he hecho desde el principio del ano de escuela.
+</pre>
+<footer>
+10.183.1.2
+</footer>
+</body>
+</html>
