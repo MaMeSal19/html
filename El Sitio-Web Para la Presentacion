@@ -3,38 +3,72 @@
 <title> La Pagina Principal </title>
 <style>
 body {
-	background-image: url(img/hummingbird.jpg);
+	background-image: url(img/HB.jpg) ;
+	<img src = "img/hummingbird1.jpg" width = "1575px" height = "1575px">
 	margin:0;
 	font-family: "Arial", Arial, san-serif;
+	background-size: 1475px;
+	background-length: 1600px;
 }
 
 pre {
 	margin:0;
 	font-family: "Arial", Arial, san-serif;
 	font-size: 36px;
+	color: white;
 	}
 
 header{
-    background: linear-gradient(to right, black, white);
+    background: linear-gradient(to right, pink, purple, blue);
     color: #fff;
     padding: 50px;
+    font-size: 45px;
 }
 footer{
-	background: linear-gradient(to right, grey, darkgrey, silver, lightgrey, silver, darkgrey, grey);
+	background: linear-gradient(to right, deeppink, hotpink, violet, magenta, purple, darkviolet, indigo, midnightblue, navy, darkblue, blue, turquoise, cyan, lightcyan, azure, white);
     color: #fff;
     padding: 50px;
+    font-size: 45px;
+}
+
+#button3{
+	position: absolute;
+    top: 80px;
+    left: 10px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid blue;
+	
 }
 </style>
 </head>
 <body>
+	<center>
 	<header>
 	Actividades hechas en la clase de ciber seguridad
+	</center>
 	</header>
 <pre>
-Hice este sitio-web para que demonstrarle la majoria de las actividades que he hecho desde el principio del ano de escuela.
+	<center>
+Hice este sitio-web para demonstrarle algunos ejemplos de las actividades
+	que he hecho desde el principio de el ano de escuela.
+Unas de las actividades que hicimos al principio del ano fue en hacer
+	 nuestro propio <a href = "http://10.183.1.2/">sitio-web</a> <a href = "http://10.183.1.2/html/1.html">1</a> para subir el resto de las avtividades, y lo mas interesante de 
+	  eso es que aprendimos hacer los sitios nosotros mismos en una 
+	  applicacion que tenemos en el systema de la computadora, llamado 
+	  Geany. Otra actividad que si me gusto fue que aprendimos a hacer 
+	  "dibujos" como animales o caricaturas en un terminal en la 
+	  computadora, y teniamos que hacerlo con codigo en el mismo programa
+	  en el que hicimos nuestro sitio, hicimos eso con un programa que 
+	  se llama <a href = "https://github.com/MaMeSal19/html/blob/master/Chicken.py">Python.</a> 
+	  
+				<a href = "https://github.com/MaMeSal19/html/blob/master/PyChicken.png" target = "_blank"><div id = "About">	Un ejemplo seria este pollo 	</div></a><span style="display:inline-block; height: 1.5;"></span>
+	</center>
 </pre>
 <footer>
+	<center>
 10.183.1.2
+	</center>
 </footer>
 </body>
 </html>
